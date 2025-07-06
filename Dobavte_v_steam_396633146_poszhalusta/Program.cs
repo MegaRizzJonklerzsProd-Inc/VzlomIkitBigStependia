@@ -18,5 +18,6 @@ namespace Dobavte_v_steam_396633146_poszhalusta
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
         }
+        //очень важный комментарий
     }
 }

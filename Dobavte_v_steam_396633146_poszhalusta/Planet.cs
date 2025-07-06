@@ -20,5 +20,7 @@ namespace Dobavte_v_steam_396633146_poszhalusta
         public List<PointF> trajectory { get; } = new List<PointF>();
         public Color color {  get; set; }
         public int radius => 4 + (int)Math.Sqrt(m*2);
+
+        public int VeryNeededPole = 0;
     }
 }
